@@ -1,5 +1,5 @@
 2019-08-01 参加了 [Go 夜读活动第53期](https://github.com/developer-learning/reading-go/issues/441)，时间有限，杨文大佬并没有详细讲述[所有的例子](https://github.com/yangwenmai/examples/blob/master/map-example)
-)，后来自己试验了一下，对其中几个有点疑惑。
+，后来自己试验了一下，对其中几个有点疑惑。
 
 1. [https://github.com/yangwenmai/examples/blob/master/map-example/mem_stats_demo.go](https://github.com/yangwenmai/examples/blob/master/map-example/mem_stats_demo.go)
 ```go
